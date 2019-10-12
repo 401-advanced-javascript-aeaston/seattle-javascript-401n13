@@ -77,7 +77,7 @@ Here's an example: [Star Wars API Docs](https://app.swaggerhub.com/apis/ahardia/
 
 #### Serving your own Swagger Documentation
 
-Use the node `express-swagger-generator` utility to create an endpoint that will render the Open API documentation for your API simply by putting properly formmated JSDoc-like comments in your API.
+Use the node `express-swagger-generator` utility to create an endpoint that will render the Open API documentation for your API simply by putting properly formatted JSDoc-like comments in your API.
 
 Create and import a file called `swagger.js` into your API server, which uses a configuration object that you can use to customize according to your API's file and URL structure.
 
@@ -90,7 +90,7 @@ let options = {
   swaggerDefinition: {
     info: {
       description: 'API Server',
-      title: 'Swaggertastic Docs!',
+      title: 'API Documentation',
       version: '1.0.1',
     },
     host: 'localhost:3300',

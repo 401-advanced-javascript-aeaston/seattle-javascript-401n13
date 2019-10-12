@@ -50,5 +50,5 @@ You have been provided, in the `starter-code/todo` folder, a working To Do list 
 * Write a suite of UI tests that assert the existence of components based on user login state. This is an assertion of wiring, not logic.
 * Your previous Login/Auth tests are going to be sufficient for the core functionality
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations

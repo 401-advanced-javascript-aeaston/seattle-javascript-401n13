@@ -46,5 +46,5 @@ If you are having issues or troubles getting these servers deployed on your own,
 * [API Server](https://api-js401.herokuapp.com/api/v1)
 * [Q Server](https://q-js401.herokuapp.com)
 
-## Assignemnt Submission Instructions
+## Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations

@@ -60,5 +60,5 @@ For this assignment, we'll be using the Context API to add a few "settings" to t
   * Your context will need to expose methods in state...
 * Save their settings in memory, and verify that the application is obeying these custom settings
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations

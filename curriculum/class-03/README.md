@@ -165,7 +165,7 @@ Testing frameworks like **MochaJS**, **Jasmine**, and **Jest** support testing a
 ``` javascript
 // example using done in "it" tests
 it('true should be true', (done) => {
-  setTimeount(() => {
+  setTimeout(() => {
     expect(true).toBe(true)
     done()
     // done('any value`) // passing a value into done makes the test fail

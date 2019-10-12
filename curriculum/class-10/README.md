@@ -9,7 +9,7 @@
 ## Outline
 * :05 **Housekeeping/Recap**
 * :15 **Code Review**
-* :45 **Stacks and Quues**
+* :45 **Stacks and Queues**
 * Break
 * :50 **GraphQL Theory & Demos**
 * Break
@@ -17,7 +17,7 @@
 
 ## GraphQL
 
-GraphQL is a query language used to allow clients to shape the query response according to their needs, and allowing the server to do the work of aggegating data from potentially multiple sources to fulfill client queries.
+GraphQL is a query language used to allow clients to shape the query response according to their needs, and allowing the server to do the work of aggregating data from potentially multiple sources to fulfill client queries.
 
 Unlike REST, GraphQL servers expose only a single endpoint. Rather than codifying every possible permutation and endpoint, a GraphQL developer configures Schemas, Queries, and Mutations holistically, and allows the client to determine the end use.
 

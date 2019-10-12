@@ -2,7 +2,7 @@
 
 ## Execution
 
-Demos are provided in the `demo` folder in the guide repository. You'll need to run them locally instead of at Code Sanbox to get the full impact.
+Demos are provided in the `demo` folder in the guide repository. You'll need to run them locally instead of at Code Sandbox to get the full impact.
 
 ## Next.js (`demo/next.js`)
 

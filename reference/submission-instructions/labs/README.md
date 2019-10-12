@@ -17,7 +17,7 @@
  * **README.md** - contains your lab documentation
  * **.env** - contains env variables (should be git ignored)
  * **.gitignore** - contains a [robust](http://gitignore.io) `.gitignore` file
- * **.eslintrc** - contains the course linter configuratoin
+ * **.eslintrc** - contains the course linter configuration
  * **.eslintignore** - contains the course linter ignore configuration
  * **.travis.yml** - contains the course linter ignore configuration
  * **package.json** - contains npm package config
@@ -25,8 +25,8 @@
    * create a `test` script for running tests
    * create a `start` script for running your server
    * create a `jsdoc` script for building your JSDoc files
-   * create a `styleguidist-build` script for building the styleguide (with your config file)
-   * create a `styleguidist-server` script for building the styleguide (with your config file)
+   * create a `styleguidist-build` script for building the style guide (with your config file)
+   * create a `styleguidist-server` script for building the style guide (with your config file)
    * create a `deploy` script (optionally) to combine any of the above steps
  * **/\_\_tests\_\_/** - contains unit tests
  * **/docs** - Where your documentation will reside
@@ -35,7 +35,7 @@
    * JSDOC Config File
    * Edit this for each lab, if your folder structure is different
  * **/docs/config/styleguidist.json** 
-   * contains settings for styleguide docs (For React Only)
+   * contains settings for style guide docs (For React Only)
 
 ### Canvas Submission
 * Copy the README-template.md file from the reference/submission-instructions folder, rename it to `README.md` and include it in your lab repository in the root folder
@@ -142,7 +142,7 @@
   * Describe your PropTypes
   * Document your components with Styleguidist
     * Use `<Component>.md` files to describe components and provide examples.
-    * Setup your `package.json` to build your styleguide docs in a subfolder of `/build`, after your normal react `build` script runs
+    * Setup your `package.json` to build your style guide docs in a sub-folder of `/build`, after your normal react `build` script runs
     * Ensure that your deployments are properly building your styleguidist docs
   * Note that for daily "practice" labs deployed at code sandbox, your styleguidist docs will not be buildable or viewable
     * Create and write them anyway (we will review them for completeness)

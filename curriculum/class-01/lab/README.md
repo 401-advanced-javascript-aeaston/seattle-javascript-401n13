@@ -54,5 +54,5 @@ Create a NodeJS module in the `lib` directory named `greet.js`.  This module sho
   * This should happen when invoked with `'world'` as the first argument
 
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations

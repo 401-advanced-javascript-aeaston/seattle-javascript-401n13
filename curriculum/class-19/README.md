@@ -62,7 +62,7 @@ The Queue server has the ability to see which clients are connected,  to which Q
 
 Within a socket.io server, by default, every socket that connects is in the same 'pool' of sockets. Everyone potentially hears every event.
 
-While that may work well at a concert, appications typically seek to segment their users. As an example, in an event driven application, there can be made a case for a 'save' event being valid for both files and for database records.
+While that may work well at a concert, applications typically seek to segment their users. As an example, in an event driven application, there can be made a case for a 'save' event being valid for both files and for database records.
 
 But not every client needs to know about both. Loggers may only care about file changes, and a cache server may only care about databases.
 

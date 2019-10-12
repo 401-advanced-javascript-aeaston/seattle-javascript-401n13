@@ -45,5 +45,5 @@ You will be submitting the URL to this working sandbox as part of your assignmen
 * Create a new component for navigation that will use those links to draw a list of pages to fetch, and then keep re-calling that initial fetch method to update the list based on what page you are "on"
 * Multi-User / Event Driven ... Once you're fully wired for CRUD, re-integrate the Q connection (the `useQ()` hook) and do event driven updates
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations

@@ -25,7 +25,7 @@ Create a 2 page interactive with the **Gatsby** framework and deploy it to Netli
   * Body section should have a title (your name)
   * Include images, links to projects, your why, etc.
 * Counter Page (/counter)
-  * Provide an inital rendering from the server with the count at 0
+  * Provide an initial rendering from the server with the count at 0
   * Increment and Decrement in the browser (live react!)
   
 ## Assignment 2 - Next.js
@@ -41,7 +41,7 @@ Create a 2 page interactive with the **Next.js** framework and deploy it to Hero
   * Body section should have a title (your name)
   * Include images, links to projects, your why, etc.
 * Counter Page (/counter)
-  * Provide an inital rendering from the server with the count at 0
+  * Provide an initial rendering from the server with the count at 0
   * Increment and Decrement in the browser (live react!)
   
 ###  Documentation

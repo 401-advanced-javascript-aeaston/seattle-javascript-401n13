@@ -59,7 +59,7 @@ Connect the application (app.js) to a `socker.io` server and emit messages relat
 * Connect your app to the socket.io server
 * Refactor the app to be modular, testable, and clean
   * Read/Write should be done in promises, not callbacks
-  * File Reading/Writing/Uppercasing should happen in one module
+  * File Reading/Writing/Upper-casing should happen in one module
     * Each operation should be in a separate function
 * Rather than throwing errors and console.log() inline, fire `file-error` and `file-save` events to the server that you connected to
 
@@ -79,7 +79,7 @@ Connect the application (app.js) to a `socker.io` server and emit messages relat
   * Use spies to help testing your logger methods (assert that console.log was called right)
 
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations
 
 * Your server need not be deployed to Heroku for this lab

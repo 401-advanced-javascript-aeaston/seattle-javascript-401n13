@@ -4,7 +4,7 @@
 * Understand the differences between SQL and noSQL Databases
 * Understand the MongoDB Ecosystem
 * Modeling Data / Schemas
-* Lifecyle Hooks
+* Lifecycle Hooks
 * Be able to use various MongoDB Clients
   * mongo cli
   * compass
@@ -42,7 +42,7 @@ When modeling data for a Document, it's best to start with considering the data 
 
 Using raw JSON is flexible, but problematic.  Programmers don't like surprises.  Enter "Mongoose", and "ORM" for the Mongo database.
 
-**ORM** - Object Relationa Mapping
+**ORM** - Object Relation Mapping
 
 In other words, rules for Document databases. Mongoose is a Node library that makes it easy for developers to not only interface with a Mongo database, but reliably structure the data (without losing flexibility).  Mongoose provides 2 essential things to make this easy for you:
 
@@ -98,7 +98,7 @@ In doubt? Refer to the **Mongo DB Cheatsheet** - Located in the "Reference" fold
 
 There are a few alternatives to running Mongo locally for your web servers
 
-* [MLab](https://www.mlab.com/) - remotely hosted mongoDB systems.  Easily setup a free database (or pay for more horespower). Works great with Heroku
+* [MLab](https://www.mlab.com/) - remotely hosted mongoDB systems.  Easily setup a free database (or pay for more horsepower). Works great with Heroku
 * [Atlas](https://www.mongodb.com/cloud/atlas) - Cloud based, highly scalable Mongo DB
 * [DynamoDB](https://aws.amazon.com/dynamodb/) - AWS NoSQL Database. Very highly scalable. Also provides a 'mongoose'-like ORM called 'dynamoose'
 * [CosmosDB](https://cosmos.azure.com/) - The Microsoft Azure equivalent for Atlas and Dynamo

@@ -30,4 +30,4 @@
 * You'll need to build out the package.json with dependencies, test scripts
 * Bring in .eslintrc.json so that you can do lint tests
 * Talk about .travis.yml for doing CI
-* TDD requires a bunch of extra plannng and pre-steps!
+* TDD requires a bunch of extra planning and pre-steps!

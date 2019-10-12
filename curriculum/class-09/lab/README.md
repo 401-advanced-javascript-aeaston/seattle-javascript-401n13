@@ -62,7 +62,7 @@ Get this server deployed to production. Although you aren't writing code against
 ### Testing
 * Write a complete set of data model and server tests
 * Use `supergoose`
-* Refer to your previous assigments for examples and inspiration
+* Refer to your previous assignments for examples and inspiration
 
 ## Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations

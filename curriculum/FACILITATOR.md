@@ -41,7 +41,7 @@ This is a great time to squeeze in some CSS tricks, review recursion or reinforc
 
 Close the hour with a solid presentation of the new material and topic for the day. This is where you'll do drawings, share a powerpoint and do your more traditional "lecture"
 
-Basic code demos to support some of the high level items are ok in this segement, but generally, try and keep this high level, using imagery and live data/sites to illustrate the **concept**
+Basic code demos to support some of the high level items are ok in this segment, but generally, try and keep this high level, using imagery and live data/sites to illustrate the **concept**
 
 **Hour 3**
 

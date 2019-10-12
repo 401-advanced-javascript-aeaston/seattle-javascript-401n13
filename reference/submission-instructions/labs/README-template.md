@@ -13,7 +13,7 @@
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
 * [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [style guide](http://xyz.com) (React assignments)
 
 ### Modules
 #### `modulename.js`

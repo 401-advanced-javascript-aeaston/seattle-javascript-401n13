@@ -48,6 +48,6 @@ Create a new repository for this assignment, copy the starter-code folder conten
 * Your App should auto-deploy to AWS Cloudfront.
 
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations
 * Submit links to both deployments at AWS

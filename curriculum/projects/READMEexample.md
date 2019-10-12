@@ -17,7 +17,7 @@ Bootstrap, Popper, and jQuery. The backend was written in C# using ASP.NET Core 
 
 An interface is provided to create new blog
 posts, view existing blog posts, edit existing blog posts, delete existing
-blog posts, and search by both keywords and usernames. All blog posts can be
+blog posts, and search by both keywords and user names. All blog posts can be
 enriched using Azure Language Services (part of Microsoft's Cognitive Services
 suite), Bing Image API, and Parallel Dots (for automated tagging of posts via
 key phrases detected within the post's body). Image enrichments can be added

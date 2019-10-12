@@ -23,7 +23,7 @@
   * Same approach as with the monolithic file
   * But where did the schema go?
 * `teams-model.js`
-  * Schema is in the constructore
+  * Schema is in the constructor
   * Note the use of `super()` to get the original functionality
 * Issuses
   * How extensible is this approach?

@@ -12,7 +12,7 @@
     * This is a great opportunity to do some pair programming. The students led the conversation to get us to a "to do" list, and everything we need to do, they've done already in different labs ... bring a student up and let them drive while you talk them through it.
       * Create a new model class that the model interfaces can inherit from
       * Write models that inherit from that class
-        * Make the point that the interface now is alwas the same!
+        * Make the point that the interface now is always the same!
         * Demonstrate extension of classes as a tool
       * Get a parameterized `/:model` in the api to pull the right model dynamically.
       * There's lots of duplication in the routes we have, this is going to be really efficient.

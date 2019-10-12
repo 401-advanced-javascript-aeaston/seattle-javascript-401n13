@@ -9,7 +9,7 @@
   * .travis.yml
   * .eslintrc.json
   * .gitignore
-* Additionally, create a folder called `docs` with a subfolder `config`
+* Additionally, create a folder called `docs` with a sub-folder `config`
   * In the config folder, place the jsdoc.config.json file found in the 'configs' folder of your class repository
 
 **For each new data structure, create a folder**

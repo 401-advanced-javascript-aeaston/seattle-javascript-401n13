@@ -13,7 +13,7 @@ You can even open up https://amritb.github.io/socketio-client-tool and connect i
 Build out a simple server that represents a single pool of connections and events with socket.io.
 
 Things to point out
-  * Clients will automaticallly reconnect and re-bind events after a disconnect (server restart, etc)
+  * Clients will automatically reconnect and re-bind events after a disconnect (server restart, etc)
   * Socket.io is managing all of the events, headers, and client pools
 
 #### Server -- `server.js`
@@ -53,5 +53,5 @@ When you run the app, it'll fire additional events. Each of the loggers should s
 
 * logger.js - sees events on the main connection (CORE) only
 * home-logger.js - sees events in the "home" namespace only
-* school-logger.js - sees events in the "school" namespace only (will not see events in any rooms in the school naespace, however)
+* school-logger.js - sees events in the "school" namespace only (will not see events in any rooms in the school namespace, however)
 * codefellows-logger.js - Sees school namespace events AND codefellows room events.

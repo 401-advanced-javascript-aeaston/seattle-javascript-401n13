@@ -2,7 +2,7 @@
 The next step in the continued preparations for your group project is to estimate the effort involved in implementing your stories.
 
 ## Tasks
-Schedule a 1-hour meeting for your entire project team. During this meeting, you will make relative estimates for how much effort you believe implementing a story will take. One person will have to be the facilitator of the meeting. The facilitator’s job is to read the stories, force a timely end to discussion, ensure that each team member is heard, and record the results.
+Schedule a 1-hour meeting for your entire project team. During this meeting, you will make relative estimates for how much effort you believe implementing a story will take. One person will have to be the facilitator of the meeting. The facilitator's job is to read the stories, force a timely end to discussion, ensure that each team member is heard, and record the results.
 
 For each story, follow this process (or something similar):
 

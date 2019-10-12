@@ -53,5 +53,5 @@ const myDropHandler = (targetPayload, droppedPayload) => {
 ### Testing
 * tests that ensure the list module functions correctly with error-check parameters
 
-## Assignemnt Submission Instructions
+## Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations

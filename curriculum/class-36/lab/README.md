@@ -52,5 +52,5 @@ In this assignment, we have a working app that uses Redux for it's state managem
 * Wire up Reducer unit tests and a fake store
 
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations

@@ -27,4 +27,4 @@ How does this change the server's role?
 
 * index.js - Entry Point
 * server.js - Hub, Exported Server
-* routes/routex.js, etc - Routers and Handlers
+* routes/routes.js, etc - Routers and Handlers

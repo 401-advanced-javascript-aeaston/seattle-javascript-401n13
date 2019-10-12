@@ -114,5 +114,5 @@ class ContactPage extends React.Component {
     return <ContactForm onSubmit={this.submit} />
   }
 }
-// normal redux connectons and exports down here ...
+// normal redux connections and exports down here ...
 ```

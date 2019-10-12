@@ -24,8 +24,8 @@ React hooks allow to to easily create and manage state in a **functional** compo
 Hooks are JavaScript functions, but they impose additional rules:
 
 * Hooks must be named with a `use` prefix (i.e. `useFishingPole`)
-* Only call Hooks at the top level. Don’t call Hooks inside loops, conditions, or nested functions.
-* Only call Hooks from React function components. Don’t call Hooks from regular JavaScript functions. (There is just one other valid place to call Hooks — your own custom Hooks. We’ll learn about them in a moment.)
+* Only call Hooks at the top level. Don't call Hooks inside loops, conditions, or nested functions.
+* Only call Hooks from React function components. Don't call Hooks from regular JavaScript functions. (There is just one other valid place to call Hooks — your own custom Hooks. We'll learn about them in a moment.)
 
 **Built In Hooks**
 
@@ -55,7 +55,7 @@ Returns a getter and setter for your state value
 
 `useReducer()` 
 
-An alternative to useState. Accepts a reducer of type (state, action) => newState, and returns the current state paired with a dispatch method. (If you’re familiar with Redux, you already know how this works.)
+An alternative to useState. Accepts a reducer of type (state, action) => newState, and returns the current state paired with a dispatch method. (If you're familiar with Redux, you already know how this works.)
 
 ```javascript
 const initialState = {count: 0};

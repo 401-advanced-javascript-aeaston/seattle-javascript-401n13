@@ -44,7 +44,7 @@ Connect the application (app.js) to the server (server.js) and emit messages rel
 
 * Refactor `app.js` to be modular, testable, and clean
   * Read/Write should be done in promises, not callbacks
-  * File Reading/Writing/Uppercasing should happen in one module
+  * File Reading/Writing/Upper-casing should happen in one module
     * Each operation should be in a separate function
 * Alter `app.js` to connect to the running server using TCP
   * On file errors, write an error message to the socket

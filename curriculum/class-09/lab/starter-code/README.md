@@ -33,7 +33,7 @@
   * eturns a JSON object with name, description, display, and category inside
 
 Commands for the command line: 
-Post: `echo '{"name" : "a","cateogry" : "b"}' | http post :3000/api/v1/{route}`
+Post: `echo '{"name" : "a","category" : "b"}' | http post :3000/api/v1/{route}`
 
 Put: `echo '{"category" : "a", "color" : "my put}' | http put :3000/api/v1/{route}/{id}`
 

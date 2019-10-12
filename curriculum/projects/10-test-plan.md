@@ -2,7 +2,7 @@
 The next step in the continued preparations for your group project is to plan your project schedule, and put a test-driven development plan together for the application.
 
 ## Tasks
-You’ve wireframed, storyboarded, created user stories, made estimates and laid out a priority. Now it’s time to make a final plan for your projects.
+You've wireframed, storyboarded, created user stories, made estimates and laid out a priority. Now it's time to make a final plan for your projects.
 
 Each member of your team will choose a story from the top of the priority order. For your story, your job is to do a “task breakdown” of the work you will do to complete the story. For each task you identify, create an issue in GitHub. If your team has a labelling strategy, use it appropriately. Make sure you have enough work for one to two days. Do not plan much further ahead than that. This avoids the need to undo work in the event that the situation on the ground changes.
 

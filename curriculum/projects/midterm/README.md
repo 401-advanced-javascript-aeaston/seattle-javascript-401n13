@@ -145,7 +145,7 @@ Why a deck? It's a helpful tool to keep you on time and on focus. Also, you will
 ## Tips and Tricks 
 
 * Solve a real business or community problem
-* Deliver someting deliverable (make it rock!)
+* Deliver something desirable (make it rock!)
 * Don't over-complicate. Sometimes, the simplest solution can be the most scalable and stable. Favor stability and tightness over wizardry
 
 ## Project Ideas

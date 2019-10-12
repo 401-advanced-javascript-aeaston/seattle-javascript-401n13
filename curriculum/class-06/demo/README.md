@@ -10,7 +10,7 @@
 
 ## Swagger
 * Head to http://www.swagger.io
-* Walk through the docs and show the petstore example to explain what swagger doc is and does
+* Walk through the docs and show the pet store example to explain what swagger doc is and does
 * Use the Inspector and hit your json-server routes to show it working
 * Generate doc with the online tools, using your history.
   * [Inspector](https://inspector.swagger.io/)

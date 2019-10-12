@@ -66,5 +66,5 @@ Alter your API server to publish events on all CRUD Operations
 * Deployment is not required
 
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations

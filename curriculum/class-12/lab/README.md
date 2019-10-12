@@ -1,6 +1,6 @@
 # LAB: OAuth
 
-Our company has decided to integrate OAuth instead of managing usernames and passwords internally. In order to make the best decision, we are creating small research teams to assess the suitability of various OAuth providers.
+Our company has decided to integrate OAuth instead of managing user names and passwords internally. In order to make the best decision, we are creating small research teams to assess the suitability of various OAuth providers.
 
 ## Before you begin
 Refer to *Getting Started*  in the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for complete setup, configuration, deployment, and submission instructions.

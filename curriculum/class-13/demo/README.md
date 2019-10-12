@@ -19,4 +19,4 @@ Also, demo hitting your Auth Server with various tools to validate logins:
 ## What bugs, issues, or surprises have come up in the past for this class?
 
 ## General Comments and Notes
-The demo today is purely for wiring purposes. The lab that the students will do takes the token process futher (dates, storage, re-generating) as brought up during the main lecture.
+The demo today is purely for wiring purposes. The lab that the students will do takes the token process further (dates, storage, re-generating) as brought up during the main lecture.

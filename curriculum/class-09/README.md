@@ -20,4 +20,4 @@
 
 ## UI Concept:
 
-## Main Topic: Mongo "Joins", Lifecylce Hooks
+## Main Topic: Mongo "Joins", Lifecycle Hooks

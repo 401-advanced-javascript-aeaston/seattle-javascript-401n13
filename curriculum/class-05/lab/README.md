@@ -63,7 +63,7 @@ The goal is to create a single interface, that any mongo based model can simply 
 ### Stretch Goals
 * Add some pre and post hooks
   * Logging
-  * Uppercasing and Lowercasing
+  * Upper-casing and Lowercasing
 * Research Virtual Joins
   * Can you connect the Categories and Products to get a combined result on a find?
 

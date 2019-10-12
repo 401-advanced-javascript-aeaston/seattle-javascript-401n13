@@ -23,7 +23,7 @@ Javascript has a limited number of built-in data types.  This includes objects, 
 A modeling technique providing common access points in an API (i.e. the CRUD methods) that is agnostic to the storage medium and techniques
 
 #### Implementation
-The specific means by which a data model interacts with a persisentce layer (file, mongo, postgres, etc)
+The specific means by which a data model interacts with a persistence layer (file, mongo, postgres, etc)
 
 #### Normalization and Validation
 Sanity checking data to ensure that it conforms to the modeling rules, integrity checks, etc prior to doing any operations with it.
@@ -39,7 +39,7 @@ You probably know that everything in the computer is stored in 0s and 1s. As web
 A byte is 8 zeros and ones `00101101`. Bytes are one of the fundamental units that programmers use to work with binary data. A byte can hold one ascii character, a number between 0 and 255, a number between -128 and 127, along with anything else that has up to 256 units.
 
 #### Strings
-Strings are made from an array of characters. Every byte in a binary file can be decoded as a character using the `ascii` or `utf8` character specifications. The ASCII standard has been around since the early sixties, and was used to encode characters of a single locale (language). It is literally a map between numbers 0 to 127 and specific characters. Meaning that when you find the number 97 in a byte, that byte can also be decoded as the letter 'a'. This only works by making computers and programers conform to the specification. As computers gained more memory and found reasons to support more character sets, the `utf8` specification was created. UTF8 is a variable length byte encoding that allows bytes to be chained together to form a character set large enough to support every locale, symbols, and emoji at once. UTF8 was designed as a superset of ASCII in order keep backwards compatibility.
+Strings are made from an array of characters. Every byte in a binary file can be decoded as a character using the `ascii` or `utf8` character specifications. The ASCII standard has been around since the early sixties, and was used to encode characters of a single locale (language). It is literally a map between numbers 0 to 127 and specific characters. Meaning that when you find the number 97 in a byte, that byte can also be decoded as the letter 'a'. This only works by making computers and developers conform to the specification. As computers gained more memory and found reasons to support more character sets, the `utf8` specification was created. UTF8 is a variable length byte encoding that allows bytes to be chained together to form a character set large enough to support every locale, symbols, and emoji at once. UTF8 was designed as a superset of ASCII in order keep backwards compatibility.
 
 #### ASCII Table
 ```
@@ -65,7 +65,7 @@ Strings are made from an array of characters. Every byte in a binary file can be
 In order to understand how integers are encoded in zeros and ones, it is important to understand how decimal notation works. In decimal notation, every digit is worth itself times ten to the power of it's place. In binary this only changes slightly, every digit is worth itself times **TWO** to the power of it's place. Integers can either be decoded as `signed` or `unsigned`. Signed numbers can be negative or positive, and unsigned numbers can only be positive.
 
 ```
-HOW DECMAL WORKS...
+HOW DECIMAL WORKS...
 
 places    43210
 _______________

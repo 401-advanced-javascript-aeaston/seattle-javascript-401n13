@@ -6,7 +6,7 @@ let options = {
   swaggerDefinition: {
     info: {
       description: 'API Server',
-      title: 'Swaggertastic Docs!',
+      title: 'API Documentation',
       version: '1.0.1',
     },
     host: 'localhost:3000',

@@ -2,7 +2,7 @@
 
 You have now completed your first Code 401 group project! 
 
-It is time to reflect on what you’ve done.
+It is time to reflect on what you've done.
 
 ## Tasks
 Below, use the text submission box for this assignment to write on the following topics.

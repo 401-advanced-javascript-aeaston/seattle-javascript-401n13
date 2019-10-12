@@ -73,7 +73,7 @@ Style the application as you please. Be creative!
 * Write tests for an publish your `<If />` components to `npm`
 * Now, you can use them in any project.
 
-### Assignemnt Submission Instructions
+### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations
 
 
